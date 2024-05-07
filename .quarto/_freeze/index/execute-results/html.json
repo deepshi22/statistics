@@ -1,0 +1,14 @@
+{
+  "hash": "6875570cf199a58bbbcc57e782982959",
+  "result": {
+    "markdown": "---\ntitle: \"Deepshika Saravanan\"\n---\n\n\n---\n\n---\n\n\n---\nimage: headshot.jpg\ntoc: false\nabout: \n  template: trestles\n  image-shape: round\n  image-width: 20em\n  links:\n    - text: LinkedIn\n      href: https://www.linkedin.com/in/deepshika-saravanan-5b5a3819b/\n    - text: GitHub\n      href: https://github.com/deepshi22\n    - text: Email\n      href: dsaravan@gmu.edu\n---\n\n\n# \n\n# page content excluded for brevity \\~\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 2\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}

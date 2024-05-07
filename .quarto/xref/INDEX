@@ -1,0 +1,47 @@
+{
+  "about.qmd": {
+    "about.html": "5565dfd1"
+  },
+  "index.qmd": {
+    "index.html": "8f4117d9"
+  },
+  "projects.qmd": {
+    "projects.html": "34563a53"
+  },
+  "CV.qmd": {
+    "CV.html": "4c4ae862"
+  },
+  "code.qmd": {
+    "code.html": "9f4a4ac3"
+  },
+  "java/about.qmd": {
+    "about.html": "43b30191"
+  },
+  "java/CV.qmd": {
+    "CV.html": "5088aa45"
+  },
+  "java/index.qmd": {
+    "index.html": "6b91a499"
+  },
+  "java/projects.qmd": {
+    "projects.html": "df6c27f4"
+  },
+  "Code.qmd": {
+    "Code.html": "6abbcb38"
+  },
+  "finalproj.qmd": {
+    "finalproj.html": "05cfee90"
+  },
+  "Midproject/projects.qmd": {
+    "projects.html": "33595091"
+  },
+  "quarto/projects.qmd": {
+    "projects.html": "e6d57d82"
+  },
+  "finalprojcode.qmd": {
+    "finalprojcode.html": "b1c35d93"
+  },
+  "influence.Rmd": {
+    "influence.html": "f67ba162"
+  }
+}

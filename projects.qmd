@@ -1,0 +1,50 @@
+---
+title: "Projects"
+output:
+  quarto::quarto_html:
+    self_contained: False
+---
+
+# Welcome to My STAT-515 Mid Project
+------------------------------------------------------------------------
+
+Here is the Youtube link: -
+
+<a href="https://youtu.be/oRzrxBoEOOs" target="_blank">https://youtu.be/oRzrxBoEOOs</a>
+
+## Title: Using R to Redesign Statistical Graphs: 
+
+
+Data visualization is the graphical representation of data to help people understand the significance of data by summarizing and presenting it in a visual form. It enables decision-makers to see analytics presented visually, so they can grasp difficult concepts or identify new patterns. Through the use of charts, graphs, and maps, data visualization tools provide an accessible way to see and understand trends, outliers, and patterns in data.
+
+Data manipulation refers to the process of changing data to make it easier to read or to prepare it for further analysis. It involves various operations such as sorting, filtering, aggregating, and transforming data to meet specific requirements. Data manipulation is often done using programming languages like Python, R, or SQL, and tools like Excel or pandas. The goal of data manipulation is to ensure that data is in a format that is suitable for analysis and can provide meaningful insights.
+
+In R programming, redesigning visualizations is important for several reasons, and there are specific techniques and packages that can be used to achieve this:
+
+Clarity and Effectiveness: R offers a wide range of packages for creating visualizations, such as ggplot2 and plotly, which allow for the creation of clear and effective visualizations through customizable features like color schemes, labels, and annotations.
+
+Audience Understanding: By using the ggplot2 package in R, visualizations can be customized to suit different audiences. For example, the facet_wrap function can be used to create multiple plots based on different variables, allowing for easy comparison and understanding.
+
+Data Changes: R provides tools for easily updating visualizations with new data. For instance, the update_geom function in ggplot2 can be used to change the data plotted on a graph without having to recreate the entire plot.
+
+Improved Aesthetics: R offers various themes and styling options through packages like ggthemes, which allow for the creation of visually appealing visualizations. Additionally, the ggplot2 package provides features for customizing plot elements such as fonts, colors, and grid lines.
+
+New Insights: Redesigning visualizations in R can lead to the discovery of new insights in the data. For example, by experimenting with different plot types or adding new variables to a plot, new patterns or relationships in the data may become apparent.
+
+Overall, in R programming, redesigning visualizations is essential for ensuring that they effectively communicate data, are tailored to the audience, and provide meaningful insights. R's flexibility and extensive visualization capabilities make it a powerful tool for creating and redesigning visualizations to meet these goals.
+
+
+ 
+ The STAT 515 course provided us with valuable insights into the power of data visualization tools. It highlighted how visualization can effectively communicate complex data and uncover meaningful insights. This course emphasized the importance of using tools like R to create impactful visualizations that can convey information clearly and engage audiences effectively.
+
+
+#References: -
+
+#Dataset of The Top 100 most valuable brands in 2020:-
+
+<a href="https://howmuch.net/sources/top-100-most-valuable-brands-2020" target="_blank">https://howmuch.net/sources/top-100-most-valuable-brands-2020</a>
+
+
+#Dataset of Visualizing the maximum Gender pay gap across USA:- 
+
+<a href="https://howmuch.net/articles/men-vs-women-comparing-income-by-industry" target="_blank">https://howmuch.net/articles/men-vs-women-comparing-income-by-industry</a>

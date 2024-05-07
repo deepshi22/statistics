@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Deepshika Saravanan"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - projects.qmd
+      - CV.qmd
+      - Code.qmd
+      - finalproj.qmd
+       
+
+format:
+  html:
+    theme: flatly
+    css: style.css
+    toc: true
+    page-layout: full
+   
+

@@ -1,0 +1,14 @@
+---
+title: "About"
+---
+
+Hi there, Everyone!
+
+My official registration name is Deepshika Saravanan. I hold a Bachelor's degree in Technology in department Computer Science from Chennai, India from SRM Institute of Science and Technology, 2 years ago. My educational goals for this course include developing a deep connection with big data analytics, mastering data analysis techniques, and gaining proficiency in deploying relevant tools. In the broader context of my Mason program of study, I aim to build a strong foundation in data management and mining, as well as enhance my skills in data visualization for analytics. In addition to the current course, I am taking Principles of Data Management/Mining and Visualization for Analytics this semester.
+
+I have experience working in various computing environments, including both local and cloud-based platforms. Locally, I am proficient in operating systems such as Windows and Linux. In terms of cloud services, I don't have hands-on experience with AWS (Amazon Web Services) but have done few courses on online for an overview experience of the concepts. My familiarity extends to utilizing cloud resources for storage, computation, and deploying applications in minor projects. While I may not consider myself an expert, I have a solid understanding of cloud computing concepts.
+
+At this moment, I don't have specific concerns about taking this course. However, I am open to addressing any challenges that may arise during the course and am committed to actively engaging with the material to ensure a successful learning experience throughout the course.
+
+
+

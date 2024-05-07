@@ -1,0 +1,30 @@
+---
+title: "Deepshika Saravanan"
+image: Introductory Picture.jpeg
+toc: true
+about:
+  template: trestles
+  image-shape: round
+  image-width: 15em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/deepshika-saravanan-5b5a3819b/
+    - text: GitHub
+      href: https://github.com/deepshi22
+    - text: Email
+      href: mailto:dsaravan@gmu.edu
+format: html
+editor: visual
+---
+
+------------------------------------------------------------------------
+
+MSDA Graduate student \@ George Mason University \| Software Engineer \| Former Senior Analyst \@ Capgemini Technology Services \| Python \| SQL \| Bigdata Analytics \| Machine Learning \| Data Visualisation
+
+With a solid foundation in Data Science, I have honed my abilities to extract, clean, analyze, and visualize data to derive actionable insights. My experience includes working with diverse datasets, from structured databases to unstructured text, and applying advanced analytics techniques to uncover hidden patterns and trends.
+
+## My goal is to leverage my passion for data and my skills in Data Science to make a meaningful impact. Whether its optimizing business operations, improving customer experiences, or driving strategic decision-making, I am dedicated to using data to drive positive change and drive towards excellence.
+
+# 
+
+# 
